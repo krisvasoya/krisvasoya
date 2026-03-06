@@ -1,48 +1,108 @@
-# 👋 Hi, I'm Kris Vasoya
-
-🚀 Computer Science Student  
-🧠 Building interactive AI-inspired web experiences  
-🎨 Frontend Developer | UI Motion Designer | WebGL Explorer
-
-🌐 Portfolio: https://krish6.vercel.app
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00FFFF&size=24&center=true&vCenter=true&width=600&lines=Frontend+Developer;Three.js+Enthusiast;Building+Futuristic+Interfaces;AI+Inspired+Web+Experiences)
-
-## 🚀 Tech Stack
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=react,js,threejs,nodejs,html,css,git,vite,figma" />
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0fffc1,100:0044ff&height=200&section=header&text=Kris%20Vasoya&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
 
-## 📊 GitHub Stats
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=00FFFF&size=28&center=true&vCenter=true&width=800&lines=Frontend+Developer;Three.js+Enthusiast;AI+Inspired+Interfaces;Creative+Coder;Building+Futuristic+Web+Experiences"/>
+</p>
 
-![Krish's GitHub stats](https://github-readme-stats.vercel.app/api?username=krisvasoya&show_icons=true&theme=tokyonight)
+---
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=krisvasoya&layout=compact&theme=tokyonight)
+# 👨‍💻 About Me
 
-![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+🚀 Computer Science Student  
+🧠 Exploring **AI-inspired interactive web interfaces**  
+🎨 Frontend Developer focused on **motion design & immersive UI**  
+🌌 Experimenting with **Three.js, WebGL, and futuristic UX**
 
+🌐 Portfolio  
+https://krish6.vercel.app
 
-## 🔥 Featured Projects
+---
+
+# ⚙️ Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,js,threejs,nodejs,html,css,git,vite,figma&theme=dark" />
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=krisvasoya&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krisvasoya&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=krisvasoya&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+
+---
+
+# 🏆 GitHub Achievements
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=krisvasoya&theme=tokyonight&no-frame=true&row=1&column=6"/>
+</p>
+
+---
+
+# 🚀 Featured Projects
 
 ### 🌌 Digital Portfolio
-Interactive AI-inspired portfolio with 3D visualizations and holographic UI.
+AI-inspired interactive portfolio with **3D visualizations, holographic UI, and cinematic motion design**.
+
 🔗 https://github.com/krisvasoya/digital-portfolio
 
+
 ### 🧠 Digital Friction Analyzer
-A system that detects user frustration through behavioral interaction tracking.
+A system that detects hidden **UX friction** using behavioral user interaction data.
+
 
 ### ☕ Midnight Roast Cafe UI
-Immersive coffee shop web experience with cinematic scroll animations.
+An immersive coffee shop website featuring **scroll-driven animations and interactive visuals**.
 
-![Profile views](https://komarev.com/ghpvc/?username=krisvasoya&color=00ffff)
+---
 
-## 🌐 Connect With Me
+# 👁️ Profile Visitors
 
-[Portfolio](https://krish6.vercel.app)  
-[GitHub](https://github.com/krisvasoya)
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=krisvasoya&color=00ffff&style=for-the-badge"/>
+</p>
 
+---
 
-AI interface banner
-neon cyberpunk theme
-animated GIF
+# 🌐 Connect With Me
+
+<p align="center">
+
+🌐 Portfolio  
+https://krish6.vercel.app
+
+💻 GitHub  
+https://github.com/krisvasoya
+
+</p>
+
+---
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0044ff,100:0fffc1&height=120&section=footer"/>
+</p>
