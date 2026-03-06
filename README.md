@@ -1,33 +1,42 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,100:007CF0&height=220&section=header&text=KRIS%20VASOYA&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Inspired%20Frontend%20Developer&descAlignY=55&descAlign=50"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,100:0044ff&height=230&section=header&text=KRIS%20VASOYA&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Inspired%20Frontend%20Developer&descAlignY=55"/>
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=00FFFF&size=28&center=true&vCenter=true&width=850&lines=Frontend+Developer;Three.js+Enthusiast;AI+Inspired+Web+Interfaces;Creative+UI+Motion+Designer;Building+Futuristic+Digital+Experiences"/>
+<img src="https://readme-typing-svg.herokuapp.com?color=00FFFF&size=30&center=true&vCenter=true&width=900&lines=Frontend+Developer;Three.js+Explorer;AI+Inspired+Interfaces;Creative+UI+Engineer;Building+Futuristic+Web+Experiences"/>
 </p>
 
 ---
 
-## 👨‍💻 SYSTEM PROFILE
+<p align="center">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExczZydzI4Ym9qaGd4aW1tbDRpc2RpdDFtb3d0c2Q5bDN0eHNtOWd0NiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7aCTfyhYawdOXcFW/giphy.gif" width="100%">
+</p>
+
+---
+
+# 🤖 AI SYSTEM INTERFACE
 
 ```bash
-> USER: KRIS VASOYA
-> ROLE: FRONTEND DEVELOPER
-> SPECIALIZATION: INTERACTIVE UI + WEBGL
-> STATUS: BUILDING FUTURISTIC WEB EXPERIENCES
+> INITIALIZING PROFILE SYSTEM...
+
+USER: KRIS VASOYA
+ROLE: FRONTEND DEVELOPER
+SPECIALIZATION: INTERACTIVE UI + WEBGL
+FOCUS: FUTURISTIC INTERFACES
+STATUS: BUILDING DIGITAL EXPERIENCES
 ```
 
 🚀 Computer Science Student
-🧠 Exploring **AI-inspired interactive interfaces**
-🎨 Creating **motion-driven UI experiences**
-🌌 Experimenting with **Three.js, WebGL, and immersive UX**
+🧠 Exploring **AI-inspired web interfaces**
+🎨 Building **interactive UI systems**
+🌌 Experimenting with **Three.js, WebGL & immersive UX**
 
-🌐 **Portfolio**
+🌐 Portfolio
 https://krish6.vercel.app
 
 ---
 
-## ⚙️ TECHNOLOGY STACK
+# ⚙️ TECHNOLOGY STACK
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=react,js,threejs,nodejs,html,css,git,vite,figma&theme=dark"/>
@@ -35,7 +44,7 @@ https://krish6.vercel.app
 
 ---
 
-## 📊 GITHUB ANALYTICS
+# 📊 GITHUB ANALYTICS
 
 <p align="center">
 
@@ -47,7 +56,15 @@ https://krish6.vercel.app
 
 ---
 
-## 🔥 CONTRIBUTION STREAK
+# 📈 DEVELOPMENT ACTIVITY
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=krisvasoya&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+# 🔥 CONTRIBUTION STREAK
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=krisvasoya&theme=tokyonight&hide_border=true"/>
@@ -55,7 +72,7 @@ https://krish6.vercel.app
 
 ---
 
-## 🐍 CONTRIBUTION MATRIX
+# 🐍 CONTRIBUTION MATRIX
 
 <p align="center">
 <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg"/>
@@ -63,7 +80,7 @@ https://krish6.vercel.app
 
 ---
 
-## 🏆 ACHIEVEMENTS
+# 🏆 GITHUB ACHIEVEMENTS
 
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=krisvasoya&theme=tokyonight&no-frame=true&row=1&column=6"/>
@@ -71,12 +88,11 @@ https://krish6.vercel.app
 
 ---
 
-## 🚀 FEATURED PROJECTS
+# 🚀 FEATURED PROJECTS
 
 ### 🌌 Digital Portfolio
 
-AI-inspired **interactive portfolio interface** featuring
-3D visuals, holographic UI, and cinematic motion design.
+AI-inspired portfolio with **3D visuals, holographic UI, and cinematic motion design**.
 
 🔗 https://github.com/krisvasoya/digital-portfolio
 
@@ -84,17 +100,25 @@ AI-inspired **interactive portfolio interface** featuring
 
 ### 🧠 Digital Friction Analyzer
 
-A system designed to detect **hidden UX friction** by analyzing real user interaction patterns.
+A system designed to detect **hidden UX friction** using behavioral interaction tracking.
 
 ---
 
 ### ☕ Midnight Roast Cafe UI
 
-Immersive coffee shop website with **scroll-driven storytelling and visual animation**.
+Immersive coffee shop website with **cinematic scroll animation**.
 
 ---
 
-## 👁️ VISITOR COUNTER
+# 🎧 CODING MUSIC
+
+<p align="center">
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=spotify&cover_image=true&theme=novatorem"/>
+</p>
+
+---
+
+# 👁 PROFILE VISITORS
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=krisvasoya&color=00ffff&style=for-the-badge"/>
@@ -102,7 +126,7 @@ Immersive coffee shop website with **scroll-driven storytelling and visual anima
 
 ---
 
-## 🌐 CONNECT
+# 🌐 CONNECT
 
 <p align="center">
 
@@ -117,6 +141,5 @@ https://github.com/krisvasoya
 ---
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:007CF0,100:00F5FF&height=140&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0044ff,100:00F5FF&height=140&section=footer"/>
 </p>
-
