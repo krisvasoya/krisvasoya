@@ -8,9 +8,6 @@
 
 ---
 
-<p align="center">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExczZydzI4Ym9qaGd4aW1tbDRpc2RpdDFtb3d0c2Q5bDN0eHNtOWd0NiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7aCTfyhYawdOXcFW/giphy.gif" width="100%">
-</p>
 
 ---
 
