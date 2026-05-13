@@ -1,99 +1,160 @@
+```
+╔══════════════════════════════════════════════════════════════╗
+║  krisvasoya / README.md                          v2025.05   ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+&nbsp;
+
+# `> whoami`
+
+**Kris Vasoya** — Frontend Developer obsessed with the boundary where code becomes experience.
+
+I build things that move, respond, and feel alive — 3D interfaces, behavioral UX systems, cinematic web. Currently studying Computer Science while shipping real projects that push what browsers can do.
+
+&nbsp;
+
+---
+
+&nbsp;
+
+# `> git log --oneline --projects`
+
+```
+a3f91c2  digital-portfolio          3D holographic portfolio · Three.js + WebGL
+7d820b1  midnight-roast-cafe        cinematic scroll UI for immersive coffee brand  
+2c49e0e  digital-friction-analyzer  behavioral UX tracking · hidden friction detection
+```
+
+&nbsp;
+
+### `a3f91c2` · [digital-portfolio](https://github.com/krisvasoya/digital-portfolio)
+
+> An AI-inspired portfolio built as a 3D environment — not a page.
+
+GPU-accelerated visuals, holographic UI panels, and motion choreography using GSAP. Everything rendered in Three.js — the portfolio itself is the proof of work.
+
+```
+stack  ·  Three.js  ·  WebGL  ·  React  ·  GSAP  ·  Vite
+live   ·  https://krish6.vercel.app
+```
+
+&nbsp;
+
+### `7d820b1` · midnight-roast-café
+
+> A coffee shop UI that puts sensory experience first.
+
+Parallax depth layers, scroll-driven cinematic transitions, atmosphere built from type and motion alone. No framework — pure DOM manipulation showing what vanilla JS can achieve.
+
+```
+stack  ·  HTML5  ·  CSS3  ·  Vanilla JS  ·  Scroll Animation API
+```
+
+&nbsp;
+
+### `2c49e0e` · digital-friction-analyzer
+
+> A behavioral analysis system that surfaces invisible UX problems.
+
+Tracks cursor hesitation, scroll reversals, rage-click patterns, and dead zones. Turns raw interaction data into friction heatmaps and actionable UX insights.
+
+```
+stack  ·  JavaScript  ·  Interaction Tracking  ·  Data Visualization
+```
+
+&nbsp;
+
+---
+
+&nbsp;
+
+# `> cat tech-stack.config`
+
+```json
+{
+  "core"    : ["React", "JavaScript ES2022+", "HTML5", "CSS3"],
+  "3d_webgl": ["Three.js", "WebGL", "GLSL shaders"],
+  "motion"  : ["GSAP", "CSS Animations", "Scroll-driven APIs"],
+  "tooling" : ["Vite", "Git", "Node.js", "Figma"],
+  "learning": ["React Three Fiber", "WASM", "shader programming"]
+}
+```
+
+&nbsp;
+
+---
+
+&nbsp;
+
+# `> ./stats.sh --user krisvasoya`
+
 <div align="center">
 
-# Kris Vasoya
-
-**Frontend Developer · WebGL & Three.js · AI-Inspired Interfaces**
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-krish6.vercel.app-0A0A0A?style=flat-square&logo=vercel&logoColor=white)](https://krish6.vercel.app)
-[![GitHub](https://img.shields.io/badge/GitHub-krisvasoya-0A0A0A?style=flat-square&logo=github&logoColor=white)](https://github.com/krisvasoya)
-[![Profile Views](https://komarev.com/ghpvc/?username=krisvasoya&color=0A0A0A&style=flat-square&label=Profile+Views)](https://github.com/krisvasoya)
+<img src="https://github-readme-stats.vercel.app/api?username=krisvasoya&show_icons=true&hide_border=true&theme=graywhite&title_color=111111&text_color=555555&icon_color=111111" height="155"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krisvasoya&layout=compact&hide_border=true&theme=graywhite&title_color=111111&text_color=555555" height="155"/>
 
 </div>
 
----
-
-## About
-
-Computer Science student building at the intersection of frontend engineering and immersive visual experience. I specialize in translating complex ideas into polished, interactive interfaces — with a focus on 3D rendering, WebGL-powered UX, and performance-conscious design systems.
-
-Currently deepening expertise in real-time 3D web with Three.js, exploring behavioral UX analysis, and shipping cinematic UI experiences.
-
----
-
-## Core Competencies
-
-| Area | Technologies |
-|---|---|
-| **UI Engineering** | React, JavaScript (ES2022+), HTML5, CSS3 |
-| **3D & WebGL** | Three.js, WebGL, GLSL shaders |
-| **Tooling** | Vite, Git, Figma, Node.js |
-| **Design** | Motion design, Component architecture, Responsive systems |
-
----
-
-## Featured Projects
-
-### [Digital Portfolio](https://github.com/krisvasoya/digital-portfolio)
-3D portfolio built with Three.js featuring holographic UI, cinematic scroll transitions, and GPU-accelerated motion design. Demonstrates advanced WebGL techniques in a production-grade frontend.
-
-`Three.js` `WebGL` `React` `GSAP`
-
----
-
-### Digital Friction Analyzer
-Behavioral interaction tracking system designed to surface hidden UX friction points. Captures cursor trails, scroll hesitation, and rage-click patterns to generate actionable UX insights.
-
-`JavaScript` `Interaction Analysis` `UX Engineering`
-
----
-
-### Midnight Roast Café UI
-Immersive coffee shop website featuring cinematic scroll animation, parallax depth layers, and atmospheric visual design. Prioritizes sensory-rich UX without sacrificing performance.
-
-`CSS Scroll Animation` `Parallax` `HTML5` `Vanilla JS`
-
----
-
-## GitHub Analytics
-
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=krisvasoya&show_icons=true&theme=default&hide_border=true&title_color=0A0A0A&text_color=555555&icon_color=0A0A0A&bg_color=ffffff" height="160"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krisvasoya&layout=compact&theme=default&hide_border=true&title_color=0A0A0A&text_color=555555&bg_color=ffffff" height="160"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=krisvasoya&hide_border=true&theme=default&ring=111111&fire=555555&currStreakLabel=111111&sideLabels=555555" height="130"/>
 
 </div>
 
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=krisvasoya&theme=default&hide_border=true&ring=0A0A0A&fire=0A0A0A&currStreakLabel=0A0A0A" height="140"/>
-
-</div>
+&nbsp;
 
 ---
 
-## Activity
+&nbsp;
 
-<div align="center">
+# `> cat principles.md`
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=krisvasoya&theme=minimal&hide_border=true&color=0A0A0A&line=0A0A0A&point=0A0A0A" />
+```
+01  The interface IS the product. Pixel-level execution is non-negotiable.
+02  Performance is a design decision. A slow experience is a broken experience.
+03  Motion should carry meaning, not just decoration.
+04  The best 3D work feels inevitable — not impressive.
+05  Ship early. Refactor with intention. Document everything.
+```
 
-</div>
-
----
-
-## Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=krisvasoya&theme=flat&no-frame=true&row=1&column=6&margin-w=8" />
-
-</div>
+&nbsp;
 
 ---
 
+&nbsp;
+
+# `> cat currently.log`
+
+```
+[BUILDING]   Shader-based particle system for portfolio v3
+[RESEARCH]   React Three Fiber + Drei for declarative Three.js  
+[READING]    "The Nature of Code" — Daniel Shiffman
+[LISTENING]  Ambient + lo-fi while writing shaders
+```
+
+&nbsp;
+
+---
+
+&nbsp;
+
+# `> ./contact.sh`
+
+```bash
+$ open https://krish6.vercel.app        # portfolio
+$ open https://github.com/krisvasoya   # code
+```
+
+> Open to frontend engineering roles, creative tech collaborations, and interesting problems.
+
+&nbsp;
+
+---
+
 <div align="center">
 
-**[krish6.vercel.app](https://krish6.vercel.app)** · Open to collaboration and frontend engineering roles
+`updated: 2025` &nbsp;·&nbsp; `built with intention, not templates`
 
 </div>
